@@ -2,19 +2,20 @@
   "name": "report-builder",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Aline-Pinotti/cautious-octo-eureka#readme",
-  "bugs": {
-    "url": "https://github.com/Aline-Pinotti/cautious-octo-eureka/issues"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aline-Pinotti/cautious-octo-eureka.git"
   },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "author": "Aline Pinotti",
   "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "bugs": {
+    "url": "https://github.com/Aline-Pinotti/cautious-octo-eureka/issues"
+  },
+  "homepage": "https://github.com/Aline-Pinotti/cautious-octo-eureka#readme"
 }
