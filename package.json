@@ -1,0 +1,20 @@
+{
+  "name": "report-builder",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Aline-Pinotti/cautious-octo-eureka#readme",
+  "bugs": {
+    "url": "https://github.com/Aline-Pinotti/cautious-octo-eureka/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aline-Pinotti/cautious-octo-eureka.git"
+  },
+  "license": "ISC",
+  "author": "Aline Pinotti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
